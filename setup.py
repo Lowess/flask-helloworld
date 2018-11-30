@@ -44,7 +44,7 @@ def get_dynamic_setup_params():
 
 static_setup_params = dict(
     name='flask-helloworld',
-    version='0.0.7',
+    version='1.0.0',
     description=('Flask Helloworld'),
     keywords='flask',
     author='Florian Dambrine',
